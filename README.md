@@ -1,17 +1,70 @@
-# OOP-FinalProject
-서울시립대학교 객체지향프로그래밍 및 실습 과목 Final Project 
-키오스크 만들기 
+# ☕ Java Cafe Kiosk (OOP Final Project)
 
-<h3>언어</h3>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+A Java Swing-based self-ordering kiosk application for a cafe.  
+This project was developed as a final assignment for the **Object-Oriented Programming and Practice** course at **University of Seoul**.
 
-<h3>IDE</h3>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+---
+
+## 📚 Course Information
+
+- **Course Name**: Object-Oriented Programming and Practice (객체지향프로그래밍 및 실습)
+- **University**: University of Seoul (서울시립대학교)
+- **Semester**: Spring 2024
+- **Project Type**: Final Team Project — Java Kiosk Application
+
+---
+
+## 🧩 Features
+
+- **Tabbed Interface**: Switch between Coffee / Non-Coffee / Food categories using `JTabbedPane`
+- **Order System**
+  - Add or subtract item quantity using `+` / `-` / "Add to Cart" buttons
+  - View detailed order list using `JTable` and `TextArea`
+  - Automatically calculates the total amount
+- **Payment System**
+  - Choose payment method: Card or Mobile Voucher
+  - Displays confirmation message on successful payment
+  - Shows warning if no item is selected (₩0 order)
+
+---
+
+## 🎨 Tech Stack
+
+- **Language**: Java
+- **IDE**: Eclipse
+- **UI**: Swing (`JTabbedPane`, `JButton`, `JTable`, `TextArea`, etc.)
+- **Architecture**: Object-Oriented Programming (separated by class files)
+
+---
+
+## 🖼️ UI Preview
+
+| Main Screen | Order Details |
+|-------------|----------------|
+| ![Main Screen](https://github.com/2eueu/OOP-FinalProject/assets/your-image-id/main_screen.png) | ![Order Details](https://github.com/2eueu/OOP-FinalProject/assets/your-image-id/order_table.png) |
+
+> These are sample images. Replace the `your-image-id` with the actual GitHub image URL after uploading.
+
+---
+
+## 🎥 Demo Video
+
+[▶️ Watch on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+> Demo video 
+---
+
+## 🙋‍♀️ My Contribution
+
+- Designed UI layout and interaction flow
+- Implemented core logic in `Menu.java`
+- Handled error fixing and program debugging
+- Wrote functional documentation and specifications
+
+---
 
 
-<h3>협업 툴</h3>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kakao Talk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
+## 📄 License
+
+MIT License © 2024 GaEun Lee (2eueu_)
+
 
