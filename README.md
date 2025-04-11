@@ -33,12 +33,22 @@ This project was developed as a final assignment for the Object-Oriented Program
 
 ---
 
-## 🎨 Tech Stack
+## 🛠️ Tech Stack
 
-- **Language**: Java
-- **IDE**: Eclipse
-- **UI**: Swing (`JTabbedPane`, `JButton`, `JTable`, `TextArea`, etc.)
-- **Architecture**: Object-Oriented Programming (separated by class files)
+### ☕ Language & Environment  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+### 🖥️ UI  
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![JTabbedPane](https://img.shields.io/badge/JTabbedPane-UI_Component-4CAF50?style=for-the-badge)
+![JTable](https://img.shields.io/badge/JTable-UI_Component-4CAF50?style=for-the-badge)
+![JButton](https://img.shields.io/badge/JButton-UI_Component-4CAF50?style=for-the-badge)
+![TextArea](https://img.shields.io/badge/TextArea-UI_Component-4CAF50?style=for-the-badge)
+
+### 🔧 Architecture  
+![OOP](https://img.shields.io/badge/OOP-Design_Pattern-ff9800?style=for-the-badge&logo=abstract&logoColor=white)
+![Class-based](https://img.shields.io/badge/Class_Structure-Separated-2196f3?style=for-the-badge)
 
 ---
 
