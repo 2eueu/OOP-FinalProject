@@ -1,7 +1,12 @@
 # ☕ Java Cafe Kiosk (OOP Final Project)
 
 A Java Swing-based self-ordering kiosk application for a cafe.  
-This project was developed as a final assignment for the **Object-Oriented Programming and Practice** course at **University of Seoul**.
+This project was developed as a final assignment for the Object-Oriented Programming and Practice course at University of Seoul.
+
+<p align="center">
+  <img src="./assets/main%20screen.png" alt="Main Screen" width="300"/>
+</p>
+
 
 ---
 
@@ -39,18 +44,17 @@ This project was developed as a final assignment for the **Object-Oriented Progr
 
 ## 🖼️ UI Preview
 
-| Main Screen | Order Details |
-|-------------|----------------|
-| ![Main Screen](https://github.com/2eueu/OOP-FinalProject/assets/your-image-id/main_screen.png) | ![Order Details](https://github.com/2eueu/OOP-FinalProject/assets/your-image-id/order_table.png) |
-
-> These are sample images. Replace the `your-image-id` with the actual GitHub image URL after uploading.
+| Main Screen | Order Table | Payment Screen |
+|-------------|-------------|----------------|
+| ![Main](./assets/main%20screen.png) | ![Order](./assets/order%20table.png) | ![Payment](./assets/payment.png) |
 
 ---
 
 ## 🎥 Demo Video
 
-[▶️ Watch on YouTube]( https://www.youtube.com/watch?v=3Gxk6OycxUA)  
-> Demo video 
+[▶️ Watch on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+> Replace this with your actual demo link.
+
 ---
 
 ## 🙋‍♀️ My Contribution
@@ -59,12 +63,5 @@ This project was developed as a final assignment for the **Object-Oriented Progr
 - Implemented core logic in `Menu.java`
 - Handled error fixing and program debugging
 - Wrote functional documentation and specifications
-
----
-
-
-## 📄 License
-
-MIT License © 2024 GaEun Lee (2eueu_)
 
 
