@@ -1,4 +1,4 @@
-# ☕ Java Cafe Kiosk (OOP Final Project)
+#  Java Cafe Kiosk (OOP Final Project)
 
 A Java Swing-based self-ordering kiosk application for a cafe.  
 This project was developed as a final assignment for the Object-Oriented Programming and Practice course at University of Seoul.
@@ -10,7 +10,7 @@ This project was developed as a final assignment for the Object-Oriented Program
 
 ---
 
-## 📚 Course Information
+##  Course Information
 
 - **Course Name**: Object-Oriented Programming and Practice (객체지향프로그래밍 및 실습)
 - **University**: University of Seoul (서울시립대학교)
@@ -19,7 +19,7 @@ This project was developed as a final assignment for the Object-Oriented Program
 
 ---
 
-## 🧩 Features
+##  Features
 
 - **Tabbed Interface**: Switch between Coffee / Non-Coffee / Food categories using `JTabbedPane`
 - **Order System**
@@ -33,26 +33,26 @@ This project was developed as a final assignment for the Object-Oriented Program
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☕ Language & Environment  
+###  Language & Environment  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-### 🖥️ UI  
+###  UI  
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JTabbedPane](https://img.shields.io/badge/JTabbedPane-UI_Component-4CAF50?style=for-the-badge)
 ![JTable](https://img.shields.io/badge/JTable-UI_Component-4CAF50?style=for-the-badge)
 ![JButton](https://img.shields.io/badge/JButton-UI_Component-4CAF50?style=for-the-badge)
 ![TextArea](https://img.shields.io/badge/TextArea-UI_Component-4CAF50?style=for-the-badge)
 
-### 🔧 Architecture  
+###  Architecture  
 ![OOP](https://img.shields.io/badge/OOP-Design_Pattern-ff9800?style=for-the-badge&logo=abstract&logoColor=white)
 ![Class-based](https://img.shields.io/badge/Class_Structure-Separated-2196f3?style=for-the-badge)
 
 ---
 
-## 🖼️ UI Preview
+##  UI Preview
 
 | Main Screen | Order Table | Payment Screen |
 |-------------|-------------|----------------|
@@ -60,14 +60,14 @@ This project was developed as a final assignment for the Object-Oriented Program
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 [▶️ Watch on YouTube]( https://www.youtube.com/watch?v=3Gxk6OycxUA)  
 > demo video link 
 
 ---
 
-## 🙋‍♀️ My Contribution
+##  My Contribution
 
 - Designed UI layout and interaction flow
 - Implemented core logic in `Menu.java`
